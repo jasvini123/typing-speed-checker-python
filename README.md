@@ -34,9 +34,6 @@ Object-Oriented Programming (OOP), and GUI development using Tkinter.
 - Any OS (Windows / Linux / macOS)
 - No external libraries required
 
-## How to Run
-```bash
-python typing_speed_test.py
 ## Applications
 - Typing practice tool for students and professionals
 - Educational project for learning Python GUI programming
@@ -48,4 +45,14 @@ python typing_speed_test.py
 - Score history and leaderboard
 - Difficulty levels
 - Dark mode UI
+
+## How to Run
+1. Make sure Python 3.7 or above is installed
+2. Open terminal or command prompt
+3. Navigate to the project folder
+4. Run the following command:
+
+```bash
+python typing_speed_test.py
+
 
